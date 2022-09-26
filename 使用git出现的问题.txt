@@ -1,0 +1,11 @@
+在终端运行的：
+	报错没有user.name：git config user.name "945982804@qq.com"
+	本地仓库连接远程仓库：git remote add origin git@github.com:945982804/beida.git
+报错：
+	1.vscode中Git: host key verification failed的解决办法：
+
+    在已克隆好的代码仓库，右键点击“Git Gui here”
+    点击Git Gui工具栏“Remote”，点击“Fetch from > origin”
+    弹出的对话框中输入“yes”，点击“ok”肯定操做
+	2.解决Please make sure you have the correct access rights and the repository exists 问题.
+https://blog.csdn.net/qq_43705131/article/details/107965888
