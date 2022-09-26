@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "D:/python/Lib/site-packages"
+    ],
+
+    "python.autoComplete.addBrackets": true,
+    "python.analysis.extraPaths": [
+        "D:/python/Lib/site-packages"
+    ],
+    "python.analysis.completeFunctionParens": true
+}
